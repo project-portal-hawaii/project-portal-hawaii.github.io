@@ -1,6 +1,4 @@
 ---
-layout: essay
-type: essay
 title: "Project Portal Hawaii"
 date: 2024-04-04
 ---
