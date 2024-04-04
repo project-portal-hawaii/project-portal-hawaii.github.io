@@ -1,3 +1,9 @@
+---
+layout: essay
+type: essay
+title: "Project Portal Hawaii"
+date: 2024-04-04
+---
 # Project Portal Hawaii
 ## Team
 Adam Bell, Adriel White, Dmitry Gordeev, Gabriel White, and Tim Lum.
