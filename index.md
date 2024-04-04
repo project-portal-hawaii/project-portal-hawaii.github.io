@@ -1,6 +1,6 @@
 # Project Portal Hawaii
 ## Team
-Adam Bell, Adriel White, Dimitry Gordeev, Gabriel White, and Tim Lum.
+Adam Bell, Adriel White, Dmitry Gordeev, Gabriel White, and Tim Lum.
 
 ## Overview
 * The problem: For students at UH Manoa, it can be difficult to find interesting projects that will improve the quality of their professional portfolios, or generally improve their skills related to their field of study. 
