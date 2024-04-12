@@ -6,6 +6,8 @@ date: 2024-04-04
 ## Team
 Adam Bell, Adriel White, Dmitry Gordeev, Gabriel White, and Tim Lum.
 
+[Team Contract](team-contract.md)
+
 ## Overview
 * The problem: For students at UH Manoa, it can be difficult to find interesting projects that will improve the quality of their professional portfolios, or generally improve their skills related to their field of study. 
 * The solution: A web application that enables professors or fellow students to post project ideas, and allows students to find the ideal project for gaining experience or earning credit for their classes.
