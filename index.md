@@ -30,8 +30,18 @@ The application will be deployed on a web server, and will be accessible to anyo
 
 ## Current Functionality
 Our App currently has 7 functioning pages, including sign-up and sign-in pages. The landing page currently showcases all of the functioning pages but this will change. So far we have:
+
 ### Sign-up and Sign-in pages
-<img src=
+<img src="./images/sign-up.png" />
+<img src="./images/sign-in.png" />
+
+### Available Projects and Single Project Pages
+<img src="./images/available-projects.png" />
+<img src="./images/single-project.png" />
+
+### Edit Profile and Add Project Pages
+<img src="./images/edit-profile.png" />
+<img src="./images/add-project.png" />
 
 ## Project Progress
 * [Milestone 1](https://github.com/orgs/project-portal-hawaii/projects/1)
