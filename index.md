@@ -24,3 +24,10 @@ If we were successful enough in building this web application, it could be utili
 * The ability to find and join a team of individual students who want to work on projects as a group.
 * The potential for professionals outside of the University to post freelance small-scale projects.
 * An accounts system that can auto-filter class-specific projects.
+
+## Deployment
+The application will be deployed on a web server, and will be accessible to anyone with an internet connection and avaliable at address: [Project Portal Hawaii](http://64.23.208.76/)
+
+## Project Progress
+* [Milestone 1](https://github.com/orgs/project-portal-hawaii/projects/1)
+* [Milestone 2](https://github.com/orgs/project-portal-hawaii/projects/2)
