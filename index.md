@@ -28,6 +28,11 @@ If we were successful enough in building this web application, it could be utili
 ## Deployment
 The application will be deployed on a web server, and will be accessible to anyone with an internet connection and avaliable at address: [Project Portal Hawaii](http://64.23.208.76/)
 
+## Current Functionality
+Our App currently has 7 functioning pages, including sign-up and sign-in pages. The landing page currently showcases all of the functioning pages but this will change. So far we have:
+### Sign-up and Sign-in pages
+<img src=
+
 ## Project Progress
 * [Milestone 1](https://github.com/orgs/project-portal-hawaii/projects/1)
 * [Milestone 2](https://github.com/orgs/project-portal-hawaii/projects/2)
