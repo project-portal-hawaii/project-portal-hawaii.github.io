@@ -29,19 +29,31 @@ If we were successful enough in building this web application, it could be utili
 The application will be deployed on a web server, and will be accessible to anyone with an internet connection and avaliable at address: [Project Portal Hawaii](http://64.23.208.76/)
 
 ## Current Functionality
-Our App currently has 7 functioning pages, including sign-up and sign-in pages. The landing page currently showcases all of the functioning pages but this will change. So far we have:
+Our App currently has 7 functioning pages: Landing, Sign-up, Sign-in, Avaiable Projects, View a Single Project, Add Project, and Edit Profile. The landing page currently showcases all of the functioning pages but this will change. So far we have:
 
-### Sign-up and Sign-in pages
+### Sign-up Page
 <img src="./images/sign-up.png" />
+<br />
+
+### Sign-in Page
 <img src="./images/sign-in.png" />
+<br />
 
-### Available Projects and Single Project Pages
+### Available Projects Page
 <img src="./images/available-projects.png" />
-<img src="./images/single-project.png" />
+<br />
 
-### Edit Profile and Add Project Pages
-<img src="./images/edit-profile.png" />
+### View a Single Project Page
+<img src="./images/single-project.png" />
+<br />
+
+### Add Project Page
 <img src="./images/add-project.png" />
+<br />
+
+### Edit Profile Page
+<img src="./images/edit-profile.png" />
+<br />
 
 ## Project Progress
 * [Milestone 1](https://github.com/orgs/project-portal-hawaii/projects/1)
