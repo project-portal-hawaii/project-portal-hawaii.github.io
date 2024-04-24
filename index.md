@@ -58,3 +58,4 @@ Our App is based on [Bowfolio](https://bowfolios.github.io) template, currently 
 ## Project Progress
 * [Milestone 1](https://github.com/orgs/project-portal-hawaii/projects/1)
 * [Milestone 2](https://github.com/orgs/project-portal-hawaii/projects/2)
+* [Milestone 3](https://github.com/orgs/project-portal-hawaii/projects/6)
