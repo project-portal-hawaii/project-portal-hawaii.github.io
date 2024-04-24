@@ -88,7 +88,34 @@ At this point, you can make changes within your IDE of choice and the changes wi
 
 [http://localhost:3000/](http://localhost:3000/)   
 
+
+## Development History
+The development process for BowFolios conformed to Issue Driven Project Management practices. In a nutshell:
+
+* Development consists of a sequence of milestones M1, M2, and M3; all done on GitHub Project boards.
+* Each Milestone is considered as checkpoints that allow for goal oriented actionable items.
+* Each task is described using a GitHub Issue, and is assigned to a single developer to complete.
+* Each task is estimated and typically separated by most effectively completed by an individual.
+* Tasks are arranged by git branch names “issue-XX”, where XX is replaced by the issue number.
+* At completion of a task, there is communication with the team in order to mitigate conflict and promote good practice.
+* The following sections document the development history of BowFolios.
+
+## Milestone 1: Structure and Understanding
+The goal of Milestone 1 was to create the HTML shell of the website and prepare the team with an understanding of the requirements for functionality.
+
+## Milestone 2: Data Model Development
+The goal of Milestone 2 was to begin adding functionality, build additional superficial design components, and arrange the data model.
+
+## Milestone 3: Complete Operational Functionality 
+The goal of Milestone 3 is to complete final pieces of functionality, clean up the code, and add the special sauce if time allows.
+
 ## Project Progress
 * [Milestone 1](https://github.com/orgs/project-portal-hawaii/projects/1)
 * [Milestone 2](https://github.com/orgs/project-portal-hawaii/projects/2)
 * [Milestone 3](https://github.com/orgs/project-portal-hawaii/projects/6)   
+
+## Deployed Live Site
+https://project-portal.live/
+
+
+
