@@ -29,7 +29,7 @@ If we were successful enough in building this web application, it could be utili
 The application will be deployed on a web server, and will be accessible to anyone with an internet connection and available at address: [Project Portal Hawaii](http://64.23.208.76/)
 
 ## Current Functionality
-Our App is based on [Bowfolio](https://bowfolios.github.io) template, currently has 7 functioning pages: Landing, Sign-up, Sign-in, Avaiable Projects, View a Single Project, Add Project, and Edit Profile. The landing page currently showcases all of the functioning pages but this will change. So far we have:
+Our App is based on [Bowfolio](https://bowfolios.github.io) template, currently has 8 functioning pages: Landing, Sign-up, Sign-in, Avaiable Projects, View a Single Project, View Showcase Projects, Add Project, and Edit Profile. The landing page currently showcases all of the functioning pages but this will change. So far we have:
 
 ### Sign-up Page
 <img src="./images/sign-up.png" />
@@ -45,6 +45,10 @@ Our App is based on [Bowfolio](https://bowfolios.github.io) template, currently 
 
 ### View a Single Project Page
 <img src="./images/single-project.png" />
+<br />
+
+### View Showcase Projects Page
+<img src="./images/showcase.png" />
 <br />
 
 ### Add Project Page
