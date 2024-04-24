@@ -123,5 +123,4 @@ The goal of Milestone 3 is to complete final pieces of functionality, clean up t
 ## Deployed Live Site
 <a href="https://project-portal.live/">Project Portal Hawaii</a>
 
-
-
+![ci-badge](https://github.com/project-portal-hawaii/pph/workflows/ci-project-portal/badge.svg)
