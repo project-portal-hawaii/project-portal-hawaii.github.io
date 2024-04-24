@@ -6,6 +6,7 @@ date: 2024-04-04
 ## Team
 Adam Bell, Adriel White, Dmitry Gordeev, Gabriel White, and Tim Lum.
 
+[Project Portal Hawaii GitHub Organization](https://github.com/project-portal-hawaii)
 [Team Contract](team-contract.md)
 
 ## Overview
