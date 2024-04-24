@@ -103,11 +103,17 @@ The development process for BowFolios conformed to Issue Driven Project Manageme
 ## Milestone 1: Structure and Understanding
 The goal of Milestone 1 was to create the HTML shell of the website and prepare the team with an understanding of the requirements for functionality.
 
+<img src="./images/ssm1.png" />   
+
 ## Milestone 2: Data Model Development
 The goal of Milestone 2 was to begin adding functionality, build additional superficial design components, and arrange the data model.
 
+<img src="./images/ssm2.png" />   
+
 ## Milestone 3: Complete Operational Functionality 
 The goal of Milestone 3 is to complete final pieces of functionality, clean up the code, and add the special sauce if time allows.
+
+<img src="./images/ssm3.png" />   
 
 ## Project Progress
 * [Milestone 1](https://github.com/orgs/project-portal-hawaii/projects/1)
@@ -115,7 +121,7 @@ The goal of Milestone 3 is to complete final pieces of functionality, clean up t
 * [Milestone 3](https://github.com/orgs/project-portal-hawaii/projects/6)   
 
 ## Deployed Live Site
-https://project-portal.live/
+<a href="https://project-portal.live/">Project Portal Hawaii</a>
 
 
 
