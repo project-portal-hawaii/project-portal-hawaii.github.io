@@ -119,8 +119,9 @@ The goal of Milestone 3 is to complete final pieces of functionality, clean up t
 * [Milestone 1](https://github.com/orgs/project-portal-hawaii/projects/1)
 * [Milestone 2](https://github.com/orgs/project-portal-hawaii/projects/2)
 * [Milestone 3](https://github.com/orgs/project-portal-hawaii/projects/6)   
+  
+![ci-badge](https://github.com/project-portal-hawaii/pph/workflows/ci-project-portal/badge.svg)
 
 ## Deployed Live Site
 <a href="https://project-portal.live/">Project Portal Hawaii</a>
 
-![ci-badge](https://github.com/project-portal-hawaii/pph/workflows/ci-project-portal/badge.svg)
