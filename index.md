@@ -130,3 +130,23 @@ The goal of Milestone 3 is to complete final pieces of functionality, clean up t
 ## Deployed Live Site
 <a href="https://project-portal.live/">Project Portal Hawaii</a>
 
+## Testimonials
+Claudia Mena-Rieke (CS Major second year):
+“I love the site! I can definitely see myself using this in the future. Though, some of the design and colors could use a little adjusting. Other than that its great!”
+* Sign up page, mobile UI issue
+* “One last thing, this page doesn’t make it obvious to what’s required for upload ()”referencing Add Project page”
+* “And the image doesn’t change sizes to fit the new screen size ok, I’m done now” referencing ‘random project page’
+
+Maddie Hatanaka (Micro-Bio major second year):
+* “I think it’s cool. It looks professional. I would use it.”
+* “I hate being late for an exam!” Runs off after rigorous studying
+
+Ken Munekata (Economics major third year):
+“So, this is to open opportunities and promote successful ones? The concept is great! It seems easy enough to understand and use. I am curious about some parts of information though.” 
+* Form boxes, unsure of what to input
+
+Jenny Brown (Electrical Engineering major third year):
+“Love the idea, issues that stick out is not being able to expand on the discriptions and maybe filtering for the types of projects I want to see. Also maybe add photos or expand more if the person wants to onto the project? Lmk if this is enough-thanks for thinking of me”
+
+Kyla Lee (CS major 3/4 year):
+“I like that the showcase platform can show you the past project boards. Thats a very valuable tool because others can get ideas. The fonts are a little different regarding scientific standards queue rant on fine details Overall, very cool.
