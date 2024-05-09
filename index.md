@@ -17,7 +17,7 @@ Adam Bell, Adriel White, Dmitry Gordeev, Gabriel White, and Tim Lum.
 The application will be deployed on a web server, and will be accessible to anyone with an internet connection and available at address: [Project Portal Hawaii](https://project-portal.live/)   
 
 ## Current Functionality
-Our App is based on [Bowfolio](https://bowfolios.github.io) template, currently has 8 functioning pages: Landing, Sign-up, Sign-in, Avaiable Projects, View a Single Project, View Showcase Projects, Add Project, and Edit Profile. The landing page currently showcases all of the functioning pages but this will change.   
+Our App is based on [Bowfolio](https://bowfolios.github.io) template, and currently has the functioning pages: Landing, Sign-up, Sign-in, Avaiable Projects, Single Project, Showcase Projects, Add Project, and Edit Profile.
 
 ## User Guide
 When entering the application for the first time, select the sign up option from the drop down menu in the top right. Doing so will bring you to this page where you can enter your email and password to register an account.   
