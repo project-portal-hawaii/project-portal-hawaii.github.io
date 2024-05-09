@@ -22,6 +22,11 @@ Our App is based on [Bowfolio](https://bowfolios.github.io) template, and curren
 ## User Guide
 When entering the application for the first time, select the sign up option from the drop down menu in the top right. Doing so will bring you to this page where you can enter your email and password to register an account.   
 
+### Landing Page
+<img src="./images/landing.png" />
+
+When intitially arriving to our site, you will be greeting by our landing page. From here you can make an account, login, or acess other pages.
+
 ### Sign-up Page
 <img src="./images/sign-up.png" />    
 
