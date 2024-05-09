@@ -14,7 +14,7 @@ Adam Bell, Adriel White, Dmitry Gordeev, Gabriel White, and Tim Lum.
 * The solution: A web application that enables professors or fellow students to post project ideas, and allows students to find the ideal project for gaining experience or earning credit for their classes.   
 
 ## Deployment
-The application will be deployed on a web server, and will be accessible to anyone with an internet connection and available at address: [Project Portal Hawaii](http://64.23.208.76/)   
+The application will be deployed on a web server, and will be accessible to anyone with an internet connection and available at address: [Project Portal Hawaii](https://project-portal.live/)   
 
 ## Current Functionality
 Our App is based on [Bowfolio](https://bowfolios.github.io) template, currently has 8 functioning pages: Landing, Sign-up, Sign-in, Avaiable Projects, View a Single Project, View Showcase Projects, Add Project, and Edit Profile. The landing page currently showcases all of the functioning pages but this will change.   
